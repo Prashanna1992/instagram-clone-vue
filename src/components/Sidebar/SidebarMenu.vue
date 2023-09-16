@@ -8,5 +8,6 @@ import SidebarMenuLink from './SidebarMenuLink.vue';
         <SidebarMenuLink title="Explore" icon="fa-solid fa-magnifying-glass" />
         <SidebarMenuLink title="Reels" icon="fa-solid fa-film" />
         <SidebarMenuLink title="Setting" icon="fa-solid fa-gear" />
+        <SidebarMenuLink title="Logout" icon="fa-solid fa-arrow-right-from-bracket" />
     </div>
 </template>
