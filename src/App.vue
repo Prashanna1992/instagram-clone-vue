@@ -1,6 +1,5 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-import StoriesBar from './components/StoriesBar.vue';
 import Sidebar from './components/Sidebar.vue';
 </script>
 
@@ -9,8 +8,7 @@ import Sidebar from './components/Sidebar.vue';
     <div class="hidden lg:block w-3/12 h-full">
       <Sidebar />
     </div>
-    <div class="flex flex-col items-center justify-center lg:w-9/12 w-full ">
-      <StoriesBar />
+    <div class="flex flex-col items-center justify-center lg:w-9/12 w-full min-h-screen">
       <RouterView />
     </div>
   </div>
