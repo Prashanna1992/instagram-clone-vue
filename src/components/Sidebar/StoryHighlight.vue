@@ -5,7 +5,6 @@ import StoryIcon from './StoryIcon.vue';
 
 <template>
     <div class="w-full px-5 flex flex-col items-center">
-
         <span class="text-sm font-bold w-full">
             Story HighLights
         </span>

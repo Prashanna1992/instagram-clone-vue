@@ -5,7 +5,9 @@ import Feed from '../components/Feed/Feed.vue'
 </script>
 
 <template>
-  <TopNavbar />
-  <StoryBarVue />
-  <Feed />
+  <div class="h-full w-full">
+    <TopNavbar />
+    <StoryBarVue />
+    <Feed />
+  </div>
 </template> 
