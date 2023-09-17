@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Sahana Guitars Pic!",
+    "image": "/src/assets/images/profilepic.jpg",
+    "description": "Endorsement day at @SahanaGuitars!"
+  },
+  {
+    "title": "Mantra Guitar Clinic!",
+    "image": "/src/assets/images/cover_image.jpg",
+    "description": "In-front of people @GuitarShop, join us for the next workshop!"
+  },
+  {
+    "title": "Wave Magazine Photoshoot!",
+    "image": "/src/assets/images/highlight1.jpg",
+    "description": "Thank you @WaveMagazine for featuring winners of @DeepakMoktanCompetition2019!"
+  },
+  {
+    "title": "Karma Records Session!",
+    "image": "/src/assets/images/studioimage.jpg",
+    "description": "This is the face of concentration! @KarmaRecords!"
+  },
+  {
+    "title": "Recording for 'Rock Pujari Competition'!",
+    "image": "/src/assets/images/feedimage1.jpg",
+    "description": "Recording my entry for #RockPujariContest @SahanaGuitars!"
+  },
+  {
+    "title": "Mantra Guitar Clinic!",
+    "image": "/src/assets/images/cover_image.jpg",
+    "description": "Was awesome performing in-front of a crowd that's curious to learn! Woop! @GuitarShop @GuitarWorkshop"
+  },
+  {
+    "title": "Recording a Damien Rice cover!",
+    "image": "/src/assets/images/acousticguitar.jpg",
+    "description": "@KarmaRecords, Recording Damien Rice's 'Cannonball'!"
+  },
+  {
+    "title": "Mantra Guitar Workshop!",
+    "image": "/src/assets/images/cover_image.jpg",
+    "description": "Thank you @GuitarShop for hosting us!"
+  },
+  {
+    "title": "Wave Magazine 2019!",
+    "image": "/src/assets/images/highlight1.jpg",
+    "description": "Check out @WaveMagazine this April! I'm in it!"
+  }
+]
